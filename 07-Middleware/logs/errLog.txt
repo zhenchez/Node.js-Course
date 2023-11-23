@@ -1,0 +1,1 @@
+2023-11-23	11:33:35	8fffb56e-6269-421c-aa76-d0a491df8739	Error: Not allowed by CORS
