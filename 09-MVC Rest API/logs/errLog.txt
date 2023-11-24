@@ -1,0 +1,8 @@
+2023-11-23	11:33:35	8fffb56e-6269-421c-aa76-d0a491df8739	Error: Not allowed by CORS
+2023-11-23	11:56:16	b53637e3-06be-41a3-9285-628b109966be	Error: ENOENT: no such file or directory, stat 'F:\0。 我的\编码\Node.js\Node-Course\08-Routing\views\subdir\test.html'
+2023-11-23	11:56:25	a87cedb8-5548-48b6-93c6-55507690c23c	Error: ENOENT: no such file or directory, stat 'F:\0。 我的\编码\Node.js\Node-Course\08-Routing\views\subdir\test.html'
+2023-11-24	12:04:47	de6d8847-2e53-4192-83cf-a653e163e192	ReferenceError: emp is not defined
+2023-11-24	12:05:19	dd8af760-c20b-472f-b484-5fdf3839ce0d	ReferenceError: emp is not defined
+2023-11-24	12:09:21	8f425b05-8031-4fc1-b98d-7cb4453c4c02	ReferenceError: emp is not defined
+2023-11-24	12:12:10	97b18e18-176f-4fa9-8acc-774951ca5c90	ReferenceError: parseInd is not defined
+2023-11-24	12:13:15	ce7e874e-d089-4b61-99d0-68682126ba9a	ReferenceError: emp is not defined
