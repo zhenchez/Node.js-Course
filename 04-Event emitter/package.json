@@ -1,5 +1,5 @@
 {
-  "name": "03-npm-modules",
+  "name": "04-event-emitter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
